@@ -89,24 +89,5 @@ _See `Pre-processing.ipynb` for training pipeline._
 
 ---
 
-## 🛠 Notes
-
-- No personal data stored – runs entirely client-side.
-- Ensure `RF_model.pkl` and `GBM_model.pkl` paths are correct in `app.py` (relative, not absolute).
-
----
-
-## Contact
-
-**PYAR Insurance Group**  
-pyarinsurance@pyar.com  
-111-111-1111 | 222-222-2222  
-
----
-
-## License
-
-This project is licensed under the MIT License.  
-Feel free to use, modify and deploy!
 
 ---
